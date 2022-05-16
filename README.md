@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 
-## - 🔭 I’m currently working on node.js
-## - 🌱 I’m currently learning GraphQL apis
+## - 🔭 I’m currently working on node.js and .Net 6.0
+## - 🌱 I’m currently learning GraphQL and Rest apis
 
