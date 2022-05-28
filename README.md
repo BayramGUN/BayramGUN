@@ -1,11 +1,12 @@
-<h3>Computer Science Student at Dokuz Eylul University</h3>
+### Computer Science Student at Dokuz Eylul University</h3>
 
 - 🔭 I’m currently working on **FilmStoreApp**
 
 - 🌱 I’m currently learning **.Net, Node.js, NestJS, Go**
 
 - 📫 Also reach me from **bayram.gn@outlook.com**
-
+<br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bayram gün" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bayram gün" height="30" width="40" /></a>
