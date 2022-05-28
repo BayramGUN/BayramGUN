@@ -1,10 +1,10 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3>Computer Science Student at Dokuz Eylul University</h3>
 
 - 🔭 I’m currently working on **FilmStoreApp**
 
 - 🌱 I’m currently learning **.Net, Node.js, NestJS, Go**
 
-- 📫 How to reach me **bayram.gun635@gmail.com**
+- 📫 Also reach me from **bayram.gn@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
