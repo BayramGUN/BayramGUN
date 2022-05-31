@@ -1,7 +1,7 @@
 ### Computer Science Student at Dokuz Eylul University</h3>
 <br>
 
-- 🔭 I’m currently working on **FilmStoreApp**
+- 🔭 I’m currently working on **FilmStoreApp** project. 
 
 - 🌱 I’m currently learning **.Net, Node.js, NestJS, Go**
 
