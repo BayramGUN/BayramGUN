@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **.Net Core Frameworks** . 
 
-- 🌱 I’m currently learning **.Net, Node.js, NestJS, Go**
+- 🌱 I’m currently learning **.Net, Node.js, nestjs**
 
 - 📫 Also reach me from **bayram.gn@outlook.com**
 <br>
@@ -22,6 +22,7 @@
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BayramGUN&label=Profile%20views&color=0e75b6&style=flat" alt="bayramgun" /> </p>
+
 <br>
 
 ![Bayram's GitHub stats](https://github-readme-stats.vercel.app/api?username=BayramGUN&count_private=true)
