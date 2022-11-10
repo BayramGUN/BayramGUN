@@ -1,7 +1,7 @@
 ### Computer Scientist & Backend Developer</h3>
 <br>
 
-- 🔭 I’m currently working ** Spring Boot ** . 
+- 🔭 I’m currently working **Spring Boot**
 
 - 🌱 I’m currently learning **Spring Boot, Node.js, nestjs**
 
