@@ -1,9 +1,9 @@
 ### Computer Scientist & Backend Developer</h3>
 <br>
 
-- 🔭 I’m currently working **Spring Boot**
+- 🔭 I’m currently working on **.Net ^6.0**
 
-- 🌱 I’m currently learning **Spring Boot, Node.js, nestjs**
+- 🌱 I’m currently learning **.Net, Spring Boot, Node.js, nestjs**
 
 - 📫 Also reach me from **bayram.gn@outlook.com**
 <br>
