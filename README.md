@@ -1,7 +1,5 @@
 # 👋 Hey there, I am Bayram 👋
 
----
-
 ## 💫 About Me
 
 - 🔭 I’m currently working on .Net ^6.0
@@ -11,8 +9,6 @@
 ### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bayramgun)
-
----
 
 ## 💻 Tech Stack
 
@@ -48,8 +44,6 @@
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
 ## 📊 My GitHub Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=BayramGUN&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true)
@@ -74,7 +68,8 @@
 
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
----
 [![visitors](https://visitcount.itsvg.in/api?id=BayramGUN&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
