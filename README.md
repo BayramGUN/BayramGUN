@@ -1,14 +1,19 @@
-# 👋 Hey there, I am Bayram 👋
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=95&duration=4000&lines=Hi+There!+👋;+I+am+Bayram+Gün!;" />
+</h1>
 
 ## 💫 About Me
 
+- 👨‍💻 I'am a software developer from Türkiye 🇹🇷
 - 🔭 I’m currently working on .Net ^6.0
 - 🌱 I’m currently learning .Net, Spring Boot, Node.js, nestjs
-- 📫 Also reach me from <bayram.gn@outlook.com>
 
 ### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bayramgun)
+
+📫 Also reach me from <bayram.gn@outlook.com>
 
 ## 💻 Tech Stack
 
