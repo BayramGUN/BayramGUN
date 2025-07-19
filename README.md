@@ -69,7 +69,7 @@
 
 ![Repo](https://github-contributor-stats.vercel.app/api?username=BayramGUN&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-[![visitors](https://visitcount.itsvg.in/api?id=BayramGUN&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--[![visitors](https://visitcount.itsvg.in/api?id=BayramGUN&icon=0&color=0)](https://visitcount.itsvg.in)-->
 
 ---
 
